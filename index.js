@@ -14,7 +14,6 @@ module.exports = function (file) {
     try {
       var injectified = falafel(source, {
         parser: acorn,
-        ecmaVersion: 6,
         sourceType: 'module'
       }, walk);
     } catch (err) {
