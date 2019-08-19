@@ -12,7 +12,7 @@
   "bugs": "https://github.com/bcomnes/csjs2-injectify/issues",
   "dependencies": {
     "acorn": "^7.0.0",
-    "csjs2-inject": "^1.0.0",
+    "csjs2-inject": "^2.0.0",
     "falafel": "bcomnes/node-falafel#deps",
     "through2": "^3.0.0"
   },
