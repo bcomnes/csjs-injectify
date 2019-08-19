@@ -1,6 +1,6 @@
 {
   "name": "csjs2-injectify",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Browserify transform to inject csjs files",
   "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
   "main": "index.js",
