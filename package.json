@@ -1,5 +1,5 @@
 {
-  "name": "csjs-injectify",
+  "name": "csjs2-injectify",
   "version": "1.0.1",
   "description": "Browserify transform to inject csjs files",
   "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
@@ -7,13 +7,13 @@
   "keywords": [
     "csjs"
   ],
-  "homepage": "https://github.com/rtsao/csjs-injectify",
-  "repository": "git@github.com:rtsao/csjs-injectify.git",
-  "bugs": "https://github.com/rtsao/csjs-injectify/issues",
+  "homepage": "https://github.com/bcomnes/csjs2-injectify",
+  "repository": "git@github.com:bcomnes/csjs2-injectify.git",
+  "bugs": "https://github.com/bcomnes/csjs2-injectify/issues",
   "dependencies": {
     "acorn": "^7.0.0",
-    "csjs-inject": "^1.0.0",
-    "falafel": "^2.0.0",
+    "csjs2-inject": "^1.0.0",
+    "falafel": "bcomnes/node-falafel#deps",
     "through2": "^3.0.0"
   },
   "license": "MIT"

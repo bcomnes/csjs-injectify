@@ -1,0 +1,8 @@
+language: node_js
+dist: xenial
+node_js:
+- node
+services:
+- xvfb
+script:
+- xvfb-run --auto-servernum npm run test
